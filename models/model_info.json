@@ -1,0 +1,23 @@
+{
+  "model_name": "Random Forest",
+  "features": [
+    "tahun",
+    "ipm",
+    "tpt_feb",
+    "tpak_feb"
+  ],
+  "target": "kategori_kemiskinan",
+  "labels": [
+    "Rendah",
+    "Sedang",
+    "Tinggi"
+  ],
+  "accuracy": 0.6818181818181818,
+  "f1_macro": 0.6650717703349281,
+  "train_rows": 88,
+  "test_rows": 22,
+  "train_provinces": 30,
+  "test_provinces": 8,
+  "split_method": "StratifiedGroupKFold; province groups kept separate",
+  "note": "persentase_miskin is used only to construct the target label and is excluded from model features."
+}

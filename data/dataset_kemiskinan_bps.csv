@@ -1,0 +1,111 @@
+﻿tahun,provinsi,ipm,tpt_feb,tpak_feb,persentase_miskin,kategori_kemiskinan,tpt_feb_flag_rse
+2023,Aceh,74.7,5.75,65.12,14.45,Tinggi,False
+2023,Sumatera Utara,75.13,5.24,70.6,8.15,Sedang,False
+2023,Sumatera Barat,75.64,5.9,69.96,5.95,Rendah,False
+2023,Riau,74.95,4.25,65.18,6.68,Rendah,False
+2023,Jambi,73.73,4.5,67.88,7.58,Sedang,False
+2023,Sumatera Selatan,73.18,4.53,69.73,11.78,Sedang,False
+2023,Bengkulu,74.3,3.21,72.72,14.04,Tinggi,False
+2023,Lampung,72.48,4.18,72.07,11.11,Sedang,False
+2023,Kepulauan Bangka Belitung,74.09,3.89,70.33,4.52,Rendah,False
+2023,Kepulauan Riau,79.08,7.61,67.29,5.69,Rendah,False
+2023,DKI Jakarta,83.55,7.57,63.07,4.44,Rendah,False
+2023,Jawa Barat,74.24,7.89,66.75,7.62,Sedang,False
+2023,Jawa Tengah,73.39,5.24,72.33,10.77,Sedang,False
+2023,DI Yogyakarta,81.09,3.58,73.43,11.04,Sedang,False
+2023,Jawa Timur,74.65,4.33,71.5,10.35,Sedang,False
+2023,Banten,75.77,7.97,65.94,6.17,Rendah,False
+2023,Bali,78.01,3.73,77.19,4.25,Rendah,False
+2023,Nusa Tenggara Barat,72.37,3.73,71.16,13.85,Tinggi,False
+2023,Nusa Tenggara Timur,68.4,3.1,74.51,19.96,Tinggi,False
+2023,Kalimantan Barat,70.47,4.52,68.45,6.71,Rendah,False
+2023,Kalimantan Tengah,73.73,3.84,68.76,5.11,Rendah,False
+2023,Kalimantan Selatan,74.66,3.95,69.53,4.29,Rendah,False
+2023,Kalimantan Timur,78.2,6.37,65.66,6.11,Rendah,False
+2023,Kalimantan Utara,72.88,4.1,67.03,6.45,Rendah,False
+2023,Sulawesi Utara,75.04,6.19,63.31,7.38,Sedang,False
+2023,Sulawesi Tengah,71.66,3.49,70.19,12.41,Tinggi,False
+2023,Sulawesi Selatan,74.6,5.26,64.37,8.7,Sedang,False
+2023,Sulawesi Tenggara,72.94,3.66,67.55,11.43,Sedang,False
+2023,Gorontalo,71.25,3.07,70.59,15.15,Tinggi,False
+2023,Sulawesi Barat,69.8,3.04,67.62,11.49,Sedang,False
+2023,Maluku,72.75,6.08,63.82,16.42,Tinggi,False
+2023,Maluku Utara,70.98,4.6,66.52,6.46,Rendah,False
+2023,Papua Barat,67.47,5.53,69.36,20.49,Tinggi,False
+2023,Papua,63.01,3.49,76.79,26.03,Tinggi,False
+2024,Aceh,75.36,5.56,64.15,14.23,Tinggi,False
+2024,Sumatera Utara,75.76,5.1,70.3,7.99,Sedang,False
+2024,Sumatera Barat,76.43,5.79,70.44,5.97,Rendah,False
+2024,Riau,75.67,3.85,65.75,6.67,Rendah,False
+2024,Jambi,74.36,4.45,67.09,7.1,Sedang,False
+2024,Sumatera Selatan,73.84,3.97,69.75,10.97,Sedang,False
+2024,Bengkulu,74.91,3.17,70.92,13.56,Tinggi,False
+2024,Lampung,73.13,4.12,71.51,10.69,Sedang,False
+2024,Kepulauan Bangka Belitung,74.55,3.85,70.66,4.55,Rendah,False
+2024,Kepulauan Riau,79.89,6.94,67.14,5.37,Rendah,False
+2024,DKI Jakarta,84.15,6.03,65.17,4.3,Rendah,False
+2024,Jawa Barat,74.92,6.91,67.34,7.46,Sedang,False
+2024,Jawa Tengah,73.87,4.39,72.22,10.47,Sedang,False
+2024,DI Yogyakarta,81.62,3.24,73.18,10.83,Sedang,False
+2024,Jawa Timur,75.35,3.74,73.02,9.79,Sedang,False
+2024,Banten,76.35,7.02,64.95,5.84,Rendah,False
+2024,Bali,78.63,1.87,77.37,4.0,Rendah,False
+2024,Nusa Tenggara Barat,73.1,3.3,73.97,12.91,Tinggi,False
+2024,Nusa Tenggara Timur,69.14,3.17,76.77,19.48,Tinggi,False
+2024,Kalimantan Barat,71.19,4.2,67.82,6.32,Rendah,False
+2024,Kalimantan Tengah,74.28,3.67,67.83,5.17,Rendah,False
+2024,Kalimantan Selatan,75.19,3.89,69.55,4.11,Rendah,False
+2024,Kalimantan Timur,78.79,5.75,66.31,5.78,Rendah,False
+2024,Kalimantan Utara,73.41,4.01,64.52,6.32,Rendah,False
+2024,Sulawesi Utara,75.68,5.98,63.98,7.25,Sedang,False
+2024,Sulawesi Tengah,72.24,3.15,68.53,11.77,Sedang,False
+2024,Sulawesi Selatan,75.18,4.9,65.41,8.06,Sedang,False
+2024,Sulawesi Tenggara,73.62,3.22,69.64,11.21,Sedang,False
+2024,Gorontalo,72.01,3.05,70.48,14.57,Tinggi,False
+2024,Sulawesi Barat,70.46,3.02,71.63,11.21,Sedang,True
+2024,Maluku,73.4,5.96,65.75,16.05,Tinggi,False
+2024,Maluku Utara,71.84,4.16,67.88,6.32,Rendah,False
+2024,Papua Barat,67.69,4.31,75.1,21.66,Tinggi,False
+2024,Papua Barat Daya,69.65,6.02,67.45,18.13,Tinggi,False
+2024,Papua,73.83,5.81,71.5,17.26,Tinggi,False
+2024,Papua Selatan,68.86,4.75,67.32,17.44,Tinggi,True
+2024,Papua Tengah,60.25,2.49,76.99,29.76,Tinggi,False
+2024,Papua Pegunungan,54.43,1.18,87.53,32.97,Tinggi,True
+2025,Aceh,76.23,5.5,65.63,12.33,Tinggi,False
+2025,Sumatera Utara,76.47,5.05,70.13,7.36,Sedang,False
+2025,Sumatera Barat,77.27,5.69,70.95,5.35,Rendah,False
+2025,Riau,76.31,4.12,64.68,6.16,Rendah,False
+2025,Jambi,75.13,4.48,67.11,7.19,Sedang,False
+2025,Sumatera Selatan,74.76,3.89,70.56,10.15,Sedang,False
+2025,Bengkulu,75.68,3.24,71.5,12.08,Tinggi,False
+2025,Lampung,73.98,4.07,71.16,10.0,Sedang,False
+2025,Kepulauan Bangka Belitung,75.26,4.17,67.67,5.0,Rendah,False
+2025,Kepulauan Riau,80.53,6.89,66.84,4.44,Rendah,False
+2025,DKI Jakarta,85.05,6.18,65.4,4.28,Rendah,False
+2025,Jawa Barat,75.9,6.74,68.91,7.02,Sedang,False
+2025,Jawa Tengah,74.77,4.33,73.17,9.48,Sedang,False
+2025,DI Yogyakarta,82.48,3.18,73.73,10.23,Sedang,False
+2025,Jawa Timur,76.13,3.61,74.25,9.5,Sedang,False
+2025,Banten,77.25,6.64,65.82,5.63,Rendah,False
+2025,Bali,79.37,1.58,77.4,3.72,Rendah,False
+2025,Nusa Tenggara Barat,73.97,3.22,76.5,11.78,Sedang,False
+2025,Nusa Tenggara Timur,69.89,3.23,75.81,18.6,Tinggi,False
+2025,Kalimantan Barat,72.09,4.23,67.64,6.16,Rendah,False
+2025,Kalimantan Tengah,74.86,3.47,69.9,5.19,Rendah,False
+2025,Kalimantan Selatan,76.1,3.94,70.41,3.84,Rendah,False
+2025,Kalimantan Timur,79.39,5.33,66.4,5.17,Rendah,False
+2025,Kalimantan Utara,74.04,3.9,69.19,5.54,Rendah,False
+2025,Sulawesi Utara,76.32,6.03,65.3,6.71,Rendah,False
+2025,Sulawesi Tengah,72.82,3.02,70.51,10.92,Sedang,False
+2025,Sulawesi Selatan,75.92,4.96,65.99,7.6,Sedang,False
+2025,Sulawesi Tenggara,74.25,3.27,69.77,10.54,Sedang,False
+2025,Gorontalo,72.62,3.12,67.52,13.24,Tinggi,False
+2025,Sulawesi Barat,71.16,3.17,71.81,10.41,Sedang,False
+2025,Maluku,74.09,5.95,67.56,15.38,Tinggi,False
+2025,Maluku Utara,72.52,4.26,68.99,5.81,Rendah,False
+2025,Papua Barat,68.48,4.21,71.45,20.66,Tinggi,False
+2025,Papua Barat Daya,70.55,6.61,68.14,17.95,Tinggi,False
+2025,Papua,74.69,6.92,70.38,19.16,Tinggi,False
+2025,Papua Selatan,69.54,4.9,68.15,19.71,Tinggi,False
+2025,Papua Tengah,60.64,3.55,78.97,28.9,Tinggi,False
+2025,Papua Pegunungan,54.91,1.68,88.27,30.03,Tinggi,False

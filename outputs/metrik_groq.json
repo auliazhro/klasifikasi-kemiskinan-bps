@@ -1,0 +1,7 @@
+{
+  "model": "openai/gpt-oss-20b",
+  "accuracy": 0.45454545454545453,
+  "f1_macro": 0.42857142857142855,
+  "n_test": 22,
+  "invalid": 0
+}

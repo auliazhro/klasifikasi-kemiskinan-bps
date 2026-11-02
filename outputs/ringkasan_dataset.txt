@@ -1,0 +1,10 @@
+RINGKASAN DATASET KEMISKINAN BPS
+Jumlah data: 110
+Jumlah kolom: 8
+Jumlah provinsi: 38
+
+Distribusi kategori:
+kategori_kemiskinan
+Rendah    40
+Sedang    38
+Tinggi    32

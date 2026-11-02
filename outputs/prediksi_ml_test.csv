@@ -1,0 +1,23 @@
+row_id,tahun,provinsi,kategori_kemiskinan,prediksi
+2,2023,Sumatera Barat,Rendah,Sedang
+8,2023,Kepulauan Bangka Belitung,Rendah,Sedang
+10,2023,DKI Jakarta,Rendah,Rendah
+13,2023,DI Yogyakarta,Sedang,Rendah
+14,2023,Jawa Timur,Sedang,Sedang
+32,2023,Papua Barat,Tinggi,Tinggi
+36,2024,Sumatera Barat,Rendah,Rendah
+42,2024,Kepulauan Bangka Belitung,Rendah,Sedang
+44,2024,DKI Jakarta,Rendah,Rendah
+47,2024,DI Yogyakarta,Sedang,Rendah
+48,2024,Jawa Timur,Sedang,Sedang
+66,2024,Papua Barat,Tinggi,Tinggi
+70,2024,Papua Tengah,Tinggi,Tinggi
+71,2024,Papua Pegunungan,Tinggi,Tinggi
+74,2025,Sumatera Barat,Rendah,Rendah
+80,2025,Kepulauan Bangka Belitung,Rendah,Rendah
+82,2025,DKI Jakarta,Rendah,Rendah
+85,2025,DI Yogyakarta,Sedang,Rendah
+86,2025,Jawa Timur,Sedang,Rendah
+104,2025,Papua Barat,Tinggi,Tinggi
+108,2025,Papua Tengah,Tinggi,Tinggi
+109,2025,Papua Pegunungan,Tinggi,Tinggi

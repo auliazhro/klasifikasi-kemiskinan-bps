@@ -1,0 +1,3 @@
+metode,accuracy,f1_macro
+Machine Learning - Random Forest,0.6818181818181818,0.6650717703349281
+AI Model Service - openai/gpt-oss-20b,0.45454545454545453,0.42857142857142855
